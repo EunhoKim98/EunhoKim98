@@ -37,7 +37,10 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 | [CVE-2024-5799](https://nvd.nist.gov/vuln/detail/CVE-2024-5799) | WordPress **CM Pop-Up Banners** plugin | Stored XSS | 4.8 Medium |
 | KVE-2024-0794 | (KrCERT / KISA advisory) | Command Injection | Medium |
 | CVE-2026-50204 | **Apache Airflow** (audit log) | CWE-532 sensitive data in log (masking fail-open on the audit-log write path) | Fixed in 3.3.0 · advisory pending |
-| [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | Fixed in 5.5.3 |
+| [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | 6.8 Medium |
+| [CVE-2026-88944] | **Tutor LMS** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium |
+| [CVE-2026-88999] | **Redux Framework** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium |
+
 
 <!-- ======================= BUG BOUNTY / RECOGNITION ======================= -->
 ## 🎯 Bug bounty &amp; recognition
