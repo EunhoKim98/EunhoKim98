@@ -52,6 +52,7 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 - Coupang
 - 23andMe
 - SUSAN I&amp;T — eWalker SWG V9
+- Wordfence
 
 </td><td>
 
