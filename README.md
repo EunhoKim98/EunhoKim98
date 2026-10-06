@@ -39,6 +39,8 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 | [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | 6.8 Medium | X |
 | [CVE-2026-88944](https://www.cve.org/CVERecord?id=CVE-2026-88944) | **Tutor LMS** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
 | [CVE-2026-88999](https://www.cve.org/CVERecord?id=CVE-2026-88999) | **Redux Framework** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
+| [CVE-2026-94664](https://www.cve.org/CVERecord?id=CVE-2026-94664) | WordPress **PDF for Contact Form 7** plugin | Arbitrary File Download | 7.5 | O |
+| [CVE-2026-94666](https://www.cve.org/CVERecord?id=CVE-2026-94666) | WordPress **Generate PDF using Contact Form 7** plugin | Arbitrary File Download | 7.5 | O |
 | [CVE-2026-103519](https://www.cve.org/CVERecord?id=CVE-2026-103519) | **WP Ultimate Review** ≤ 2.4.3 | Arbitrary Shortcode Execution via `xs_reviw_summery` (Subscriber+) | Medium | O |
 | [CVE-2026-100386](https://www.cve.org/CVERecord?id=CVE-2026-100386) | **Ultra Addons for Contact Form 7** ≤ 3.5.52 | Unauthenticated Arbitrary File Read via mPDF WriteHTML SVG parser | High | O |
 | [CVE-2026-97639](https://www.cve.org/CVERecord?id=CVE-2026-97639) | **Everest Backup** ≤ 2.3.13 | Unauthenticated Arbitrary Plugin Activation via `page`/`plugin` POST params | High | O |
