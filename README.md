@@ -24,7 +24,6 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 
 - 🕸️ **Web:** stored/reflected XSS, access control, bug-bounty on real targets (Coupang, 23andMe, …)
 - 🧠 **Binary / memory-safety:** OOB write, integer overflow → heap corruption in file-format parsers, verified with AddressSanitizer
-- 🧪 **Method:** manual review + diff-driven variant analysis; every report ships a working PoC and a fix
 - 🎖️ **Trained by:** NIS, K-Shield Jr
 
 <!-- ======================= CVEs ======================= -->
