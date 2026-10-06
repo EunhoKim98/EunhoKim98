@@ -30,19 +30,19 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 <!-- ======================= CVEs ======================= -->
 ## 🏅 CVEs &amp; security advisories
 
-| ID | Product | Class | Severity |
-|----|---------|-------|----------|
-| [CVE-2024-2640](https://nvd.nist.gov/vuln/detail/CVE-2024-2640) | WordPress **Watu Quiz** plugin | Stored XSS | 5.4 Medium |
-| [CVE-2024-3236](https://nvd.nist.gov/vuln/detail/CVE-2024-3236) | WordPress **Popup Builder** plugin | Stored XSS | 5.4 Medium |
-| [CVE-2024-5799](https://nvd.nist.gov/vuln/detail/CVE-2024-5799) | WordPress **CM Pop-Up Banners** plugin | Stored XSS | 4.8 Medium |
-| KVE-2024-0794 | (KrCERT / KISA advisory) | Command Injection | Medium |
-| CVE-2026-50204 | **Apache Airflow** (audit log) | CWE-532 sensitive data in log (masking fail-open on the audit-log write path) | Fixed in 3.3.0 · advisory pending |
-| [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | 6.8 Medium |
-| [CVE-2026-88944](https://www.cve.org/CVERecord?id=CVE-2026-88944) | **Tutor LMS** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium |
-| [CVE-2026-88999](https://www.cve.org/CVERecord?id=CVE-2026-88999) | **Redux Framework** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium |
-| [CVE-2026-103519](https://www.cve.org/CVERecord?id=CVE-2026-103519) | **WP Ultimate Review** ≤ 2.4.3 | Arbitrary Shortcode Execution via `xs_reviw_summery` (Subscriber+) | Medium |
-| [CVE-2026-100386](https://www.cve.org/CVERecord?id=CVE-2026-100386) | **Ultra Addons for Contact Form 7** ≤ 3.5.52 | Unauthenticated Arbitrary File Read via mPDF WriteHTML SVG parser | High |
-| [CVE-2026-97639](https://www.cve.org/CVERecord?id=CVE-2026-97639) | **Everest Backup** ≤ 2.3.13 | Unauthenticated Arbitrary Plugin Activation via `page`/`plugin` POST params | High |
+| ID | Product | Class | Severity | Bouty |
+|----|---------|-------|----------|----|
+| [CVE-2024-2640](https://nvd.nist.gov/vuln/detail/CVE-2024-2640) | WordPress **Watu Quiz** plugin | Stored XSS | 5.4 Medium | X |
+| [CVE-2024-3236](https://nvd.nist.gov/vuln/detail/CVE-2024-3236) | WordPress **Popup Builder** plugin | Stored XSS | 5.4 Medium | X |
+| [CVE-2024-5799](https://nvd.nist.gov/vuln/detail/CVE-2024-5799) | WordPress **CM Pop-Up Banners** plugin | Stored XSS | 4.8 Medium | X |
+| KVE-2024-0794 | (KrCERT / KISA advisory) | Command Injection | Medium | O |
+| CVE-2026-50204 | **Apache Airflow** (audit log) | CWE-532 sensitive data in log (masking fail-open on the audit-log write path) | Fixed in 3.3.0 · advisory pending | X |
+| [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | 6.8 Medium | X |
+| [CVE-2026-88944](https://www.cve.org/CVERecord?id=CVE-2026-88944) | **Tutor LMS** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
+| [CVE-2026-88999](https://www.cve.org/CVERecord?id=CVE-2026-88999) | **Redux Framework** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
+| [CVE-2026-103519](https://www.cve.org/CVERecord?id=CVE-2026-103519) | **WP Ultimate Review** ≤ 2.4.3 | Arbitrary Shortcode Execution via `xs_reviw_summery` (Subscriber+) | Medium | O |
+| [CVE-2026-100386](https://www.cve.org/CVERecord?id=CVE-2026-100386) | **Ultra Addons for Contact Form 7** ≤ 3.5.52 | Unauthenticated Arbitrary File Read via mPDF WriteHTML SVG parser | High | O |
+| [CVE-2026-97639](https://www.cve.org/CVERecord?id=CVE-2026-97639) | **Everest Backup** ≤ 2.3.13 | Unauthenticated Arbitrary Plugin Activation via `page`/`plugin` POST params | High | O |
 
 <!-- ======================= BUG BOUNTY / RECOGNITION ======================= -->
 ## 🎯 Bug bounty &amp; recognition
