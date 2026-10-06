@@ -70,15 +70,17 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
   <img src="https://img.shields.io/badge/Wordfence-Researcher%20Profile-FF6633?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0b1021"/>
 </a>
 
-<br><br>
+<br>
 
 <!-- ======================= CERTIFICATIONS ======================= -->
 ## 📜 Certifications
 | Cert | Issuer | Year |
 |------|--------|------|
 | **OSCP** (Offensive Security Certified Professional) | Offensive Security | 2026 |
-| **OSCP+** | Offensive Security | 2026.10 |
+| **OSCP+** | Offensive Security | 2026 |
 | **정보처리기사** (Engineer Information Processing) | 한국산업인력공단 (HRD Korea) | 2024 |
+
+<br>
 
 <!-- ======================= TOOLBELT ======================= -->
 ## 🧰 Toolbelt
