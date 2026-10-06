@@ -66,12 +66,11 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 
 <!-- ======================= CERTIFICATIONS ======================= -->
 ## 📜 Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/OSCP-Offensive%20Security-red?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0b1021"/>
-  <img src="https://img.shields.io/badge/OSCP%2B-Offensive%20Security-critical?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=8b0000"/>
-  <img src="https://img.shields.io/badge/정보처리기사-한국산업인력공단-0066cc?style=for-the-badge&logoColor=white&labelColor=0b1021"/>
-</p>
-
+| Cert | Issuer | Year |
+|------|--------|------|
+| **OSCP** (Offensive Security Certified Professional) | Offensive Security | — |
+| **OSCP+** | Offensive Security | — |
+| **정보처리기사** (Engineer Information Processing) | 한국산업인력공단 (HRD Korea) | — |
 
 <!-- ======================= TOOLBELT ======================= -->
 ## 🧰 Toolbelt
