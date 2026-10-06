@@ -68,9 +68,9 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 ## 📜 Certifications
 | Cert | Issuer | Year |
 |------|--------|------|
-| **OSCP** (Offensive Security Certified Professional) | Offensive Security | — |
-| **OSCP+** | Offensive Security | — |
-| **정보처리기사** (Engineer Information Processing) | 한국산업인력공단 (HRD Korea) | — |
+| **OSCP** (Offensive Security Certified Professional) | Offensive Security | 2026.10 |
+| **OSCP+** | Offensive Security | 2026.10 |
+| **정보처리기사** (Engineer Information Processing) | 한국산업인력공단 (HRD Korea) | 2024.04 |
 
 <!-- ======================= TOOLBELT ======================= -->
 ## 🧰 Toolbelt
