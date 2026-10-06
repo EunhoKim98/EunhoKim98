@@ -69,7 +69,7 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 <a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/eunho-kim-2">
   <img src="https://img.shields.io/badge/Wordfence-Researcher%20Profile-FF6633?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0b1021"/>
 </a>
-
+<br><br>
 <!-- ======================= CERTIFICATIONS ======================= -->
 ## 📜 Certifications
 | Cert | Issuer | Year |
