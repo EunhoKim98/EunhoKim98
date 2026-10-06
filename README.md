@@ -118,9 +118,7 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 </p>
 <p align="center">
 </p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EunhoKim98&bg_color=0b1021&color=ff1e1e&line=ff1e1e&point=ffffff&area=true&hide_border=true"/>
-</p>
+
 
 <!-- ======================= LINKS ======================= -->
 ## 🔗 Links
