@@ -44,7 +44,7 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 | [CVE-2026-103519](https://www.cve.org/CVERecord?id=CVE-2026-103519) | **WP Ultimate Review** ≤ 2.4.3 | Arbitrary Shortcode Execution via `xs_reviw_summery` (Subscriber+) | Medium | O |
 | [CVE-2026-100386](https://www.cve.org/CVERecord?id=CVE-2026-100386) | **Ultra Addons for Contact Form 7** ≤ 3.5.52 | Unauthenticated Arbitrary File Read via mPDF WriteHTML SVG parser | High | O |
 | [CVE-2026-97639](https://www.cve.org/CVERecord?id=CVE-2026-97639) | **Everest Backup** ≤ 2.3.13 | Unauthenticated Arbitrary Plugin Activation via `page`/`plugin` POST params | High | O |
-| [CVE-2026-115417](https://github.com/awslabs/aws-c-mqtt/security/advisories/GHSA-g3x5-86mr-65p5) | **aws-c-mqtt** ≤ 0.9.1 | Memory Allocation with Excessive Size Value | 7.5 | O |
+| [CVE-2026-115417]([https://github.com/awslabs/aws-c-mqtt/security/advisories/GHSA-g3x5-86mr-65p5](https://aws.amazon.com/ko/security/security-bulletins/2026-147-aws/)) | **aws-c-mqtt** ≤ 0.9.1 | Memory Allocation with Excessive Size Value | 7.5 | O |
 
 <!-- ======================= BUG BOUNTY / RECOGNITION ======================= -->
 ## 🎯 Bug bounty &amp; recognition
