@@ -29,24 +29,30 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 <!-- ======================= CVEs ======================= -->
 ## 🏅 CVEs &amp; security advisories
 
+### General
+| ID | Product | Class | Severity |
+|----|---------|-------|----------|
+| [CVE-2026-50204](https://nvd.nist.gov/vuln/detail/cve-2026-50204) | **Apache Airflow** (audit log) | CWE-532 sensitive data in log (masking fail-open on the audit-log write path) | 6.8 |
+| [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | 6.8 Medium |
+| [CVE-2026-115417](https://aws.amazon.com/ko/security/security-bulletins/2026-147-aws/) | **aws-c-mqtt** ≤ 0.9.1 | Memory Allocation with Excessive Size Value | 7.5 | O |
+| KVE-2024-0794 | (KrCERT / KISA advisory) | Command Injection | Medium | O |
+
+
+### Wordpress
 | ID | Product | Class | Severity | Bouty |
 |----|---------|-------|----------|----|
-| [CVE-2024-2640](https://nvd.nist.gov/vuln/detail/CVE-2024-2640) | WordPress **Watu Quiz** plugin | Stored XSS | 5.4 Medium | X |
-| [CVE-2024-3236](https://nvd.nist.gov/vuln/detail/CVE-2024-3236) | WordPress **Popup Builder** plugin | Stored XSS | 5.4 Medium | X |
-| [CVE-2024-5799](https://nvd.nist.gov/vuln/detail/CVE-2024-5799) | WordPress **CM Pop-Up Banners** plugin | Stored XSS | 4.8 Medium | X |
-| KVE-2024-0794 | (KrCERT / KISA advisory) | Command Injection | Medium | O |
-| [CVE-2026-50204](https://nvd.nist.gov/vuln/detail/cve-2026-50204) | **Apache Airflow** (audit log) | CWE-532 sensitive data in log (masking fail-open on the audit-log write path) | 6.8 | X |
-| [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | 6.8 Medium | X |
+| [CVE-2024-2640](https://nvd.nist.gov/vuln/detail/CVE-2024-2640) | **Watu Quiz** | Stored XSS | 5.4 Medium | X |
+| [CVE-2024-3236](https://nvd.nist.gov/vuln/detail/CVE-2024-3236) | **Popup Builder** | Stored XSS | 5.4 Medium | X |
+| [CVE-2024-5799](https://nvd.nist.gov/vuln/detail/CVE-2024-5799) | **CM Pop-Up Banners** | Stored XSS | 4.8 Medium | X |
 | [CVE-2026-88944](https://www.cve.org/CVERecord?id=CVE-2026-88944) | **Tutor LMS** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
 | [CVE-2026-88999](https://www.cve.org/CVERecord?id=CVE-2026-88999) | **Redux Framework** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
-| [CVE-2026-94664](https://www.cve.org/CVERecord?id=CVE-2026-94664) | WordPress **PDF for Contact Form 7** plugin | Arbitrary File Download | 7.5 | O |
-| [CVE-2026-94666](https://www.cve.org/CVERecord?id=CVE-2026-94666) | WordPress **Generate PDF using Contact Form 7** plugin | Arbitrary File Download | 7.5 | O |
+| [CVE-2026-94664](https://www.cve.org/CVERecord?id=CVE-2026-94664) | **PDF for Contact Form 7** | Arbitrary File Download | 7.5 | O |
+| [CVE-2026-94666](https://www.cve.org/CVERecord?id=CVE-2026-94666) | **Generate PDF using Contact Form 7** | Arbitrary File Download | 7.5 | O |
 | [CVE-2026-103519](https://www.cve.org/CVERecord?id=CVE-2026-103519) | **WP Ultimate Review** ≤ 2.4.3 | Arbitrary Shortcode Execution via `xs_reviw_summery` (Subscriber+) | Medium | O |
 | [CVE-2026-100386](https://www.cve.org/CVERecord?id=CVE-2026-100386) | **Ultra Addons for Contact Form 7** ≤ 3.5.52 | Unauthenticated Arbitrary File Read via mPDF WriteHTML SVG parser | High | O |
 | [CVE-2026-97639](https://www.cve.org/CVERecord?id=CVE-2026-97639) | **Everest Backup** ≤ 2.3.13 | Unauthenticated Arbitrary Plugin Activation via `page`/`plugin` POST params | High | O |
 | [CVE-2026-116764](https://www.cve.org/CVERecord?id=CVE-2026-116764) | **The GDPR Framework By Data443** ≤ 2.5.2 | Missing Authorization to Authenticated | Medium | X |
 | [CVE-2026-116764](https://www.cve.org/CVERecord?id=CVE-2026-116764) | **NotificationX** ≤ 3.3.3 | Missing Authorization | 5.3 | X |
-| [CVE-2026-115417](https://aws.amazon.com/ko/security/security-bulletins/2026-147-aws/) | **aws-c-mqtt** ≤ 0.9.1 | Memory Allocation with Excessive Size Value | 7.5 | O |
 
 <!-- ======================= BUG BOUNTY / RECOGNITION ======================= -->
 ## 🎯 Bug bounty &amp; recognition
