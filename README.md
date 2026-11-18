@@ -35,7 +35,7 @@ assigned CVEs (WordPress, Apache Airflow), KISA award-winning CTF finishes.
 | [CVE-2024-3236](https://nvd.nist.gov/vuln/detail/CVE-2024-3236) | WordPress **Popup Builder** plugin | Stored XSS | 5.4 Medium | X |
 | [CVE-2024-5799](https://nvd.nist.gov/vuln/detail/CVE-2024-5799) | WordPress **CM Pop-Up Banners** plugin | Stored XSS | 4.8 Medium | X |
 | KVE-2024-0794 | (KrCERT / KISA advisory) | Command Injection | Medium | O |
-| CVE-2026-50204 | **Apache Airflow** (audit log) | CWE-532 sensitive data in log (masking fail-open on the audit-log write path) | Fixed in 3.3.0 · advisory pending | X |
+| [CVE-2026-50204](https://nvd.nist.gov/vuln/detail/cve-2026-50204) | **Apache Airflow** (audit log) | CWE-532 sensitive data in log (masking fail-open on the audit-log write path) | 6.8 | X |
 | [CVE-2026-73066](https://github.com/tesseract-ocr/tesseract/security/advisories/GHSA-7j76-5rq5-5jg8) | **Tesseract OCR** (LSTM loader) | CWE-787 heap OOB write ← CWE-190 int overflow | 6.8 Medium | X |
 | [CVE-2026-88944](https://www.cve.org/CVERecord?id=CVE-2026-88944) | **Tutor LMS** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
 | [CVE-2026-88999](https://www.cve.org/CVERecord?id=CVE-2026-88999) | **Redux Framework** | Missing Authorization to Authenticated(Wordfence BugBounty) | Medium | O |
